@@ -12,14 +12,17 @@
 출력: 화 // 또는 화요일
 
 실습1
+
 ![image](https://github.com/user-attachments/assets/ea3cb9da-cd8b-4d4a-8732-3411dc161122)
 ![image](https://github.com/user-attachments/assets/ba7f4d6a-0c1d-4cc2-b15a-851c809cb687)
 
 
 실습2
+
 ![image](https://github.com/user-attachments/assets/c62f4142-234c-41bb-a9fd-9db6ed28d164)
 ![image](https://github.com/user-attachments/assets/90d8fec3-973b-446a-9d32-afec1b43f8dd)
 
 
 실습3
+
 ![image](https://github.com/user-attachments/assets/fa8499ad-94ef-4728-bbdc-f091f54f633f)

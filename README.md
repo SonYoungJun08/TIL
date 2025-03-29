@@ -11,6 +11,7 @@
 입력: 2025-03-11 // var input = ‘2025-03-11’;
 출력: 화 // 또는 화요일
 
+##결과
 실습1
 
 ![image](https://github.com/user-attachments/assets/ea3cb9da-cd8b-4d4a-8732-3411dc161122)

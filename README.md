@@ -112,7 +112,8 @@
 - 정 중앙에 현재 시각을 표시
 > ※ 현재 시각은 1초마다 갱신되어야 합니다.
 >
-> ![Uploading image.png…]()
+> ![image](https://github.com/user-attachments/assets/441161da-9e03-418f-aaf8-f62c72d8f834)
+
 
 
   

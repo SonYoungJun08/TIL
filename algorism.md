@@ -61,7 +61,7 @@ if __name__ == "__main__":
     s.insert_after("cherry", s.head.next)
     s.showList()  # apple => mango => cherry
 
-   #출력 결과
+   출력 결과
    나는 SList의 Constructor method
    apple => mango
    apple => mango => cherry

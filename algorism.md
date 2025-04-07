@@ -1,3 +1,6 @@
+# TIL (Today I Learned)
+## 날짜: 2025-04-07
+
 # 🧵 Python Singly Linked List (SList)
 
 이 문서는 Python으로 구현한 단일 연결 리스트(`SList`)의 전체 코드와 주요 설명을 담고 있습니다.

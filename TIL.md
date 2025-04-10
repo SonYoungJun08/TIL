@@ -115,7 +115,7 @@
 > ![image](https://github.com/user-attachments/assets/441161da-9e03-418f-aaf8-f62c72d8f834)
 >
 > # TIL (Today I Learned)
-## 날짜: 2025-03-21
+## 날짜: 2025-04-10
 ### 오늘 해야할것
 과제1 - 화면 만들기
 ![스크린샷 2025-04-10 161545](https://github.com/user-attachments/assets/06dac2f2-09e6-4c3a-b35f-a9a8bbf35607)

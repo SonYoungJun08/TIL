@@ -113,6 +113,14 @@
 > ※ 현재 시각은 1초마다 갱신되어야 합니다.
 >
 > ![image](https://github.com/user-attachments/assets/441161da-9e03-418f-aaf8-f62c72d8f834)
+>
+> # TIL (Today I Learned)
+## 날짜: 2025-03-21
+### 오늘 해야할것
+과제1 - 화면 만들기
+![스크린샷 2025-04-10 161545](https://github.com/user-attachments/assets/06dac2f2-09e6-4c3a-b35f-a9a8bbf35607)
+과제2 - 계산기 만들기 (화면만)
+![스크린샷 2025-04-10 161448](https://github.com/user-attachments/assets/1baf4bfb-f6b4-4173-b72d-a718ce345786)
 
 
 

@@ -122,7 +122,16 @@
 과제2 - 계산기 만들기 (화면만)
 ![스크린샷 2025-04-10 161448](https://github.com/user-attachments/assets/1baf4bfb-f6b4-4173-b72d-a718ce345786)
 
+# TIL (Today I Learned)
+## 날짜: 2025-04-19
 
+### 오늘 해야 할 것
+위젯의 라이프사이클 확인
+화면의 Stack구조 - push(), pop()시 호출되는 메소드 출력
+initState()
+dispose()
+build()
+![스크린샷 2025-04-19 225001](https://github.com/user-attachments/assets/14cb14e9-3a1b-4432-96cd-baf37eaed164)
 
   
 

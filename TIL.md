@@ -14,7 +14,7 @@
 결과    
  
 실습1
-
+ 
 ![image](https://github.com/user-attachments/assets/ea3cb9da-cd8b-4d4a-8732-3411dc161122)
 ![image](https://github.com/user-attachments/assets/ba7f4d6a-0c1d-4cc2-b15a-851c809cb687)
 
